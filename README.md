@@ -1,7 +1,6 @@
-# Haksolot
-
-<div style="width:100px">
-    <img src="Haksolot.png">
+<div>
+    <img src="https://media.licdn.com/dms/image/C4D16AQERfak9OAJZ0Q/profile-displaybackgroundimage-shrink_350_1400/0/1639589543298?e=1680134400&v=beta&t=5jpu2v2SiPqu7dv4KBEw8RJ5JNwdqHne39njDLWYORI" style="border-radius:30px">
+    <img src="https://avatars.githubusercontent.com/u/83018259?v=4" style="width:15vw; border-radius:50%; position: absolute; left:42vw; top:15vw">
 </div>
 
 ## 👨🏼‍💻 About me
@@ -35,3 +34,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-plain.svg"width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"width="40" height="40"/>&nbsp;
 </div>
+
+## 📬 Contact
