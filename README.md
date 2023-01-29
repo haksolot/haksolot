@@ -47,5 +47,5 @@
 
 ## 🎧 Currently listening 
 &nbsp;<div align="center">
-  ![Spotify](http://haksolot.69.mu)
+    <img src="http://haksolot.69.mu">
 </div>
