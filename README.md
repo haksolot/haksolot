@@ -45,7 +45,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:seanlametpro@gmail.com) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/channels/@me/haksolot#3558) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/sean-lamet-856297203/) [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)](https://www.youtube.com/@techisnightmare)
 
-## 🎧 Currently listening 
-&nbsp;<div align="center">
-    <img src="http://haksolot.69.mu">
-</div>
