@@ -39,10 +39,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"width="30" height="30"/>&nbsp;
 </div>
 
-## 📬 Contact
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/sean-lamet-856297203/) 
-
-
 Checkout [DipWeb](https://dipweb.fr)
