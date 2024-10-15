@@ -8,8 +8,8 @@
 ## 👨🏼‍💻 About me
 
 - 🥐 I am french 
-- 🎓 Currently in second year of computer engineering school (CESI CPI A2) 
-- 🌍 Traveled around the world (Congo, Nigeria, Kenya, Gabon, Malta, England, Germany)
+- 🎓 Currently in second year of computer engineering school
+- 🌍 Traveled around the world
 - 🍵 Good english level (B2)
   
 ## 🛠 Technologies used
