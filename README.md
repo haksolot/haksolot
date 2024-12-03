@@ -7,8 +7,6 @@
 - 🌍 **Explorer** – I’ve traveled the world and love discovering new cultures  
 - 🚀 Passionate about **open source, low-level programming, IoT, and privacy focused software** 
 
----
-
 ## 🛠️ Technologies I Use  
 
 ### **Programming Languages**  
@@ -34,5 +32,5 @@
 - Neovim
 
 ## 💌 Contacts:
-- Discord : (same as my github username)
+- **Discord** : (same as my github username)
 - [PGP KEY ID](https://github.com/haksolot.gpg)
