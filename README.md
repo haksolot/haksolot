@@ -31,6 +31,6 @@
 - VS Code  
 - Neovim
 
-## 💌 Contacts:
+## 💌 Contacts
 - **Discord** : (same as my github username)
 - [PGP KEY ID](https://github.com/haksolot.gpg)
