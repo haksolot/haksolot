@@ -33,4 +33,5 @@
 
 ## 💌 Contacts
 - **Discord** : (same as my github username)
-- [PGP KEY ID](https://github.com/haksolot.gpg)
+- **Mail** : haksolot@tutamail.com
+- [PGP KEY](https://github.com/haksolot.gpg)
