@@ -19,17 +19,16 @@
 - TailwindCSS
 
 ### **Hardware & Microcontrollers**  
-- Digispark  
 - ESP32  
-- Arduino Uno  
-- Raspberry Pi  
+- Raspberry Pi
+- Digispark 
 
 ### **Operating Systems**  
 - **Linux**: Arch Linux (btw)  
 
 ### **Text Editors**  
 - VS Code  
-- Neovim
+- Neovim (LazyVim)
 
 ## 💌 Contacts
 - **Discord** : (same as my github username)
