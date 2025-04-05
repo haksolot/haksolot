@@ -10,8 +10,8 @@
 ## 🛠️ Technologies I Use  
 
 ### **Programming Languages**  
-- **Compiled**: Rust, C, C++  
-- **Interpreted**: JavaScript (NodeJS), Python  
+- **Compiled**: Go, Rust, C, C++  
+- **Interpreted**: JavaScript (NodeJS), Python
 - **Databases**: SQL, MongoDB  
 
 ### **Frontend & Frameworks**  
