@@ -31,6 +31,5 @@
 - Neovim (LazyVim)
 
 ## 💌 Contacts
-- **Discord** : (same as my github username)
-- **Mail** : haksolot@tutamail.com
+- [Discord](https://discord.com/users/haksolot)
 - [PGP KEY](https://github.com/haksolot.gpg)
