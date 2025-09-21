@@ -15,7 +15,7 @@
 - **Databases**: SQL, MongoDB  
 
 ### **Frontend & Frameworks**  
-- Vue.js
+- React.js, Vue.js
 - TailwindCSS
 
 ### **Hardware & Microcontrollers**  
